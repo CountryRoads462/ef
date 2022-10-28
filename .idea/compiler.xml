@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-classes-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-reports-tests.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-test-results.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task-build-tmp.main" target="11" />
+      <module name="Number_Base_Converter.Number_Base_Converter-task.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-How_to_invoke_the_method.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-Statements.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-Varargs.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-Varargs_method_invocation.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Arrays_as_parameters-What_does_the_method_print.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Ability_to_change.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Average.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Deposit.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Gold_mining.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Initialization.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Multiplication.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Round_and_power.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Rounding_with_a_given_precision.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigDecimal-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Comparing_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Double_factorial.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-BigInteger-What_can_BigInteger_store.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Catch_all_exceptions.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Catching_some_exceptions.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Converting_and_multiplying.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Determine_a_block_for_handling_exceptions.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Method_named_process.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Printed_lines.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Suitable_keywords.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-What_does_the_code_print.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Exception_handling-What_exceptions_can_be_handled.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Integer_types_and_operations-Arithmetic_expression.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Integer_types_and_operations-Difference_of_times.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Integer_types_and_operations-How_many_nuts_each_squirrel_will_get.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Integer_types_and_operations-Reversing_input_numbers.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-A_pair_of_overloaded_methods.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-Conditionals_for_overloading.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-Overloading_a_method.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-Overloading_methods.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-Print.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-Successful_overloading.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Overloading-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-About_the_pattern.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Benefits.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Concrete_strategies.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Max_and_Min.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Pick_your_team.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Select_one_statement.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Statements.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Strategy_pattern.main" target="11" />
+      <module name="Number_Base_Converter.Topics-Strategy-Theory.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Counting_words.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Creating_a_map.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Determine_values_of_variables.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Existing_implementations.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Getting_submaps.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Modifying_a_map.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Sherlock_Holmes_and_removing_of_characters.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Sherlock_Holmes_and_the_mystery_of_anagrams.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-The_property_of_TreeMap.main" target="11" />
+      <module name="Number_Base_Converter.Topics-The_Map_interface-Theory.main" target="11" />
+      <module name="Number_Base_Converter.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2481#comment
+status: Failed
+feedback:
+  message: |
+    Compilation error
+    Main.java:4: error: '(' or '[' expected
+        }
+        ^
+    1 error
+  time: Mon, 24 Oct 2022 14:53:55 UTC
+record: -1
